@@ -1,0 +1,52 @@
+{
+  "index": {
+    "slug": "index.html",
+    "title": "NEUROSTEP | Spinal Cord Injury & Neuro Rehabilitation Center, Dehradun",
+    "description": "In-clinic spinal cord injury, stroke and neuro rehabilitation in Dehradun with in-house hydrotherapy. 5.0★ (86 reviews), women-owned, wheelchair accessible. Call or WhatsApp today."
+  },
+  "about": {
+    "slug": "about.html",
+    "title": "About NEUROSTEP | Our Mission & Team | Dehradun Neuro Rehab Center",
+    "description": "Meet NEUROSTEP — a women-owned spinal cord injury and neuro rehabilitation center in Dehradun built around in-clinic equipment, hydrotherapy and personalised recovery plans."
+  },
+  "services": {
+    "slug": "services.html",
+    "title": "Rehabilitation Services in Dehradun | Neuro, Ortho, Sports & Hydrotherapy | NEUROSTEP",
+    "description": "Explore NEUROSTEP's rehabilitation services in Dehradun: neuro rehab, pediatric neuro rehab, orthopaedic rehab, sports rehab, cardiopulmonary rehab and in-house hydrotherapy."
+  },
+  "spinal-cord-injury": {
+    "slug": "spinal-cord-injury.html",
+    "title": "Spinal Cord Injury Rehabilitation in Dehradun | Paralysis Recovery | NEUROSTEP",
+    "description": "Dedicated in-clinic spinal cord injury and paralysis rehabilitation in Dehradun — paraplegia and quadriplegia care with gait training, hydrotherapy and a structured recovery roadmap."
+  },
+  "stroke-rehabilitation": {
+    "slug": "stroke-rehabilitation.html",
+    "title": "Stroke Rehabilitation Dehradun | Stroke, TBI, Parkinson's & MS Care | NEUROSTEP",
+    "description": "Stroke rehabilitation in Dehradun at NEUROSTEP, also treating TBI, Parkinson's, MS and GBS, with hands-on neuro-physiotherapy and in-house hydrotherapy."
+  },
+  "gallery": {
+    "slug": "gallery.html",
+    "title": "Facility & Equipment Gallery | NEUROSTEP Rehabilitation Center Dehradun",
+    "description": "See inside NEUROSTEP's Dehradun rehabilitation facility — hydrotherapy pool, gait-training equipment, electrotherapy units and therapy spaces."
+  },
+  "blog": {
+    "slug": "blog.html",
+    "title": "Rehabilitation & Recovery Blog | NEUROSTEP Dehradun",
+    "description": "Guidance on spinal cord injury recovery, stroke rehabilitation and hydrotherapy from the NEUROSTEP team in Dehradun."
+  },
+  "blog-hydrotherapy-recovery": {
+    "slug": "blog-hydrotherapy-recovery.html",
+    "title": "Why Hydrotherapy Speeds Up Neuro Recovery | NEUROSTEP Blog",
+    "description": "How in-house hydrotherapy supports faster, safer neuro rehabilitation for spinal cord injury and stroke patients — explained by the NEUROSTEP team in Dehradun."
+  },
+  "testimonials": {
+    "slug": "testimonials.html",
+    "title": "Patient Testimonials & Reviews | NEUROSTEP Rehabilitation Dehradun",
+    "description": "Read what patients say about spinal cord injury, stroke and neuro rehabilitation at NEUROSTEP in Dehradun — 5.0★ average across 86 Google reviews."
+  },
+  "contact": {
+    "slug": "contact.html",
+    "title": "Contact NEUROSTEP | Book an Appointment | Dehradun Rehabilitation Center",
+    "description": "Book a spinal cord injury, stroke or neuro rehabilitation appointment at NEUROSTEP Dehradun. Call, WhatsApp, or request a callback — Mon–Sat, 9 AM–6 PM."
+  }
+}

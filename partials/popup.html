@@ -1,0 +1,21 @@
+<div class="lead-popup-overlay" id="lead-popup">
+  <div class="lead-popup" role="dialog" aria-modal="true" aria-labelledby="popup-title">
+    <button class="close-x" data-popup-close aria-label="Close popup">&times;</button>
+    <span class="eyebrow">Free consultation</span>
+    <h3 id="popup-title">Not sure where to start?</h3>
+    <p>Leave your name and number — our team will call you back to talk through your condition and the right therapy plan.</p>
+    <form>
+      <div class="field">
+        <label for="popup_name">Full name</label>
+        <input type="text" id="popup_name" name="popup_name" required>
+      </div>
+      <div class="field">
+        <label for="popup_phone">Phone number</label>
+        <input type="tel" id="popup_phone" name="popup_phone" required>
+      </div>
+      <button type="submit" class="btn btn-coral" style="width:100%;">Request a call back</button>
+    </form>
+    <p class="popup-thanks" style="display:none;color:var(--teal-700);font-weight:600;">Thank you — we'll call you back shortly.</p>
+    <a href="#" class="no-thanks" data-popup-close>No thanks, I'll browse first</a>
+  </div>
+</div>
