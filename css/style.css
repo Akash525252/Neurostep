@@ -354,6 +354,7 @@ section{padding-block:clamp(56px,8vw,104px);}
   aspect-ratio:4/3;border-radius:var(--radius-sm);overflow:hidden;position:relative;cursor:pointer;
   background:var(--paper-100);border:1px solid var(--line);
 }
+.g-item img{width:100%;height:100%;object-fit:cover;display:block;}
 .g-item .ph{
   position:absolute;inset:0;display:flex;align-items:center;justify-content:center;text-align:center;
   font-family:var(--font-mono);font-size:.68rem;color:var(--ink-500);padding:1em;

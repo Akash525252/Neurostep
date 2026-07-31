@@ -138,7 +138,23 @@
     items.forEach(function (item) {
       item.addEventListener('click', function () {
         var label = item.getAttribute('data-label') || '';
-        if (lbSlot) lbSlot.textContent = label;
+        var photo = item.querySelector('img');
+        if (lbSlot) {
+          if (photo) {
+            lbSlot.innerHTML = '';
+            lbSlot.style.padding = '0';
+            var img = document.createElement('img');
+            img.src = photo.src;
+            img.alt = photo.alt;
+            img.style.width = '100%';
+            img.style.height = '100%';
+            img.style.objectFit = 'cover';
+            lbSlot.appendChild(img);
+          } else {
+            lbSlot.textContent = label;
+            lbSlot.style.padding = '2em';
+          }
+        }
         if (lbCap) lbCap.textContent = label;
         lightbox.classList.add('open');
       });
