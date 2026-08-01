@@ -46,7 +46,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 <meta property="og:locale" content="en_IN">
 <meta name="theme-color" content="#0b3d3a">
 <link rel="icon" href="images/favicon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="css/style.css?v=3">
+<link rel="stylesheet" href="css/style.css?v=4">
 {schema}
 </head>
 <body>
@@ -57,7 +57,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 {footer}
 {popup}
 {floating}
-<script src="js/main.js?v=3"></script>
+<script src="js/main.js?v=4"></script>
 </body>
 </html>
 """
